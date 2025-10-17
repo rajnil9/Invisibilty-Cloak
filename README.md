@@ -1,4 +1,4 @@
-# 🧙‍♂️ Invisible Cloak using OpenCV (Python)
+# 🧙‍♂️ Harry Potter Invisibility Cloak using OpenCV
 
 This mini-project recreates the **Harry Potter–style Invisible Cloak** effect using **OpenCV** and **NumPy** in Python.  
 By detecting a specific color (blue here) from the webcam and replacing that color with the background, it creates an *illusion of invisibility* in real time.  
