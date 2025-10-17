@@ -5,13 +5,12 @@ By detecting a specific color (blue here) from the webcam and replacing that col
 
 ---
 
+###  🎬 Demo Video
+<p>
+  
+https://github.com/user-attachments/assets/b1fe70c4-9a31-444f-a5b2-546ecb630da4
 
-## 🎬 Demo Video
-
-<video width="480" controls>
-  <source src="cloak_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+</p>
 
 ## 🧠 How It Works
 
