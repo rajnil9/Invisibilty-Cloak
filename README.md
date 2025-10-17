@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/763119a0-a2e7-486e-9fe8-4629c1aa896f
 
 </p>
 
-###  🖼 Imaage
+###  🖼 Image
 <p>
   <img src="image.png" width="1000"/>
 </p>
