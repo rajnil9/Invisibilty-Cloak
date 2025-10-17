@@ -5,13 +5,13 @@ By detecting a specific color (blue here) from the webcam and replacing that col
 
 ---
 
-## 🎬 Demo
 
-📹 **Project Video:**  
-[![Watch the demo video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)  
-*(Attach your video link or replace the above with a local video file — `demo.mp4`)*  
+## 🎬 Demo Video
 
----
+<video width="480" controls>
+  <source src="cloak_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## 🧠 How It Works
 
